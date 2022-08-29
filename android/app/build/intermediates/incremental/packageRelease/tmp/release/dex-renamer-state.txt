@@ -1,0 +1,4 @@
+#Mon Aug 29 00:27:12 IST 2022
+base.0=/Users/kaushikpatel/Desktop/Projects/React-Native/practicle/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
